@@ -1,4 +1,3 @@
-require 'set'
 count = 0
 elves_calories = []
 
